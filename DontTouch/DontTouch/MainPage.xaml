@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:DontTouch"
+             x:Class="DontTouch.MainPage">
+
+    <StackLayout>
+
+        <Label Text="Don't touch this phone" FontSize="Large" HorizontalOptions="Center" VerticalOptions="Start" />
+        <Label x:Name="warningLab" Text="Detected movement!" FontSize="Large" HorizontalOptions="Center" Margin="50" />
+        <Entry x:Name="entry" Placeholder="Enter PIN" />
+        <Button x:Name="button"  Text="Turn off alarm" />
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,12 @@
+c:\users\barto\source\repos\DontTouch\DontTouch\DontTouch\bin\Debug\netstandard2.0\DontTouch.deps.json
+c:\users\barto\source\repos\DontTouch\DontTouch\DontTouch\bin\Debug\netstandard2.0\DontTouch.dll
+c:\users\barto\source\repos\DontTouch\DontTouch\DontTouch\bin\Debug\netstandard2.0\DontTouch.pdb
+c:\users\barto\source\repos\DontTouch\DontTouch\DontTouch\obj\Debug\netstandard2.0\DontTouch.csprojAssemblyReference.cache
+c:\users\barto\source\repos\DontTouch\DontTouch\DontTouch\obj\Debug\netstandard2.0\App.xaml.g.cs
+c:\users\barto\source\repos\DontTouch\DontTouch\DontTouch\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+c:\users\barto\source\repos\DontTouch\DontTouch\DontTouch\obj\Debug\netstandard2.0\DontTouch.csproj.CoreCompileInputs.cache
+c:\users\barto\source\repos\DontTouch\DontTouch\DontTouch\obj\Debug\netstandard2.0\DontTouch.AssemblyInfoInputs.cache
+c:\users\barto\source\repos\DontTouch\DontTouch\DontTouch\obj\Debug\netstandard2.0\DontTouch.AssemblyInfo.cs
+c:\users\barto\source\repos\DontTouch\DontTouch\DontTouch\obj\Debug\netstandard2.0\DontTouch.dll
+c:\users\barto\source\repos\DontTouch\DontTouch\DontTouch\obj\Debug\netstandard2.0\DontTouch.pdb
+c:\users\barto\source\repos\DontTouch\DontTouch\DontTouch\obj\Debug\netstandard2.0\XamlC.stamp
