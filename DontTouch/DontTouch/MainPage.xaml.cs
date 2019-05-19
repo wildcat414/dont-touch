@@ -6,8 +6,15 @@ using System.Threading.Tasks;
 using Xamarin.Forms;
 using Xamarin.Essentials;
 
+
+
 namespace DontTouch
 {
+    public interface IAudio
+    {
+        void PlayAudioFile(string fileName);
+    }
+
     public partial class MainPage : ContentPage
     {
         SensorSpeed speed = SensorSpeed.Game; // Set speed delay for monitoring changes.
@@ -66,6 +73,8 @@ namespace DontTouch
                 } else
                 {
                     bgcolor = Color.White;
+                    DependencyService.Get<IAudio>().PlayAudioFile("Flashbang-Kibblesbob-899170896.mp3");
+
                 }
 
                 this.BackgroundColor = bgcolor;
